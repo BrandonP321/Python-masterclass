@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86221c7b-4e97-4cbc-8a58-7a7b7d67741f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b1abO8XmyEyOaZvZA1DD5igYvl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.dice_probability">
+    <configuration name="binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InputOutput" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InputOutput" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dice_probability" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InputOutput" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dice_probability.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dictionary_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InputOutput" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shelveexample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InputOutput" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shelveexample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dice_probability" />
+        <item itemvalue="Python.dictionary_test" />
+        <item itemvalue="Python.shelveexample" />
+        <item itemvalue="Python.binary" />
+        <item itemvalue="Python.challenge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86221c7b-4e97-4cbc-8a58-7a7b7d67741f" name="Default Changelist" comment="" />
+      <created>1587802123930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587802123930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="532" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588283340450">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="532" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.920@0.0.1536.920" timestamp="1588283340450" />
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom" timestamp="1588733674343">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1588733674343" />
+    <state width="1493" height="258" key="GridCell.Tab.0.center" timestamp="1588733674343">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1588733674343" />
+    <state width="1493" height="258" key="GridCell.Tab.0.left" timestamp="1588733674343">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1588733674343" />
+    <state width="1493" height="258" key="GridCell.Tab.0.right" timestamp="1588733674343">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1588733674343" />
+    <state width="1493" height="300" key="GridCell.Tab.1.bottom" timestamp="1588407995478">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1588407995478" />
+    <state width="1493" height="300" key="GridCell.Tab.1.center" timestamp="1588407995478">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1588407995478" />
+    <state width="1493" height="300" key="GridCell.Tab.1.left" timestamp="1588407995477">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1588407995477" />
+    <state width="1493" height="300" key="GridCell.Tab.1.right" timestamp="1588407995478">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1588407995478" />
+    <state x="279" y="106" key="SettingsEditor" timestamp="1587804004667">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="279" y="106" key="SettingsEditor/0.0.1536.920@0.0.1536.920" timestamp="1587804004667" />
+    <state x="465" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1589082611216">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="465" y="284" key="com.intellij.ide.util.TipDialog/0.0.1536.920@0.0.1536.920" timestamp="1588628476933" />
+    <state x="465" y="296" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1589082611216" />
+    <state x="209" y="182" key="new project wizard" timestamp="1589082653884">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="209" y="182" key="new project wizard/0.0.1536.960@0.0.1536.960" timestamp="1589082653884" />
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1588279844353">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1536.920@0.0.1536.920" timestamp="1588279844353" />
+  </component>
+</project>

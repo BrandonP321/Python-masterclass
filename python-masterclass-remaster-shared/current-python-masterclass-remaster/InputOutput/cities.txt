@@ -1,0 +1,4 @@
+seattle
+redmond
+tacoma
+federal way
