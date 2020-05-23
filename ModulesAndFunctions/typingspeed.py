@@ -1,17 +1,5 @@
 import time
 
-# phrase = "Yo, so I just made this type speed game thing.  It has a few bugs I might work out like the " \
-#          "fact that if you accidentally add one wrong letter or space that changes the length of the paragraph then it " \
-#          "will mark all of the following letters as being wrong.  Also make sure you hit enter when you're " \
-#          "done typing!  P.S. not sure why the paragraph is so awkwardly spread out on the screen but I'll fix that too."
-#
-# word_count = 1
-# for char in phrase:
-#     if char == " ":
-#         word_count += 1
-#
-# print("Your phrase is: " + phrase + "\n")
-
 while 'q' not in input("Press enter to play or 'quit' to leave: "):
     phrase = "Yo, so I just made this type speed game thing.  It has a few bugs I might work out like the " \
              "fact that if you accidentally add one wrong letter or space that changes the length of the paragraph then it " \

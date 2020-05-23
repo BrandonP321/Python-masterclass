@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e923d38-0741-4c19-93ed-ed952e3b4633" name="Default Changelist" comment="" />
+    <list default="true" id="1d74ec20-6906-41fe-a39e-60056b35dc4c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1ZyFUqNxH0RgKt8qkuxWRYaZCKd" />
+  <component name="ProjectId" id="1aS9H3ou3aLy85Hi28TfZuxaxuu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,12 +25,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InputAndOutput/hello.py" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Python.formatting">
-    <configuration name="formatting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
+  <component name="RunManager" selected="Python.tupleschallenge">
+    <configuration name="iteratorchallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ListsRangesTuples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -41,7 +40,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formatting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iteratorchallenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,8 +49,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repfields" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
+    <configuration name="listschallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ListsRangesTuples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -62,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repfields.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listschallenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,8 +70,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sequence_operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
+    <configuration name="ranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ListsRangesTuples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -83,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sequence_operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ranges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,8 +91,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sliceback" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
+    <configuration name="tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ListsRangesTuples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -104,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sliceback.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,8 +112,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strings2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
+    <configuration name="tupleschallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ListsRangesTuples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -125,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tupleschallenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.formatting" />
-        <item itemvalue="Python.repfields" />
-        <item itemvalue="Python.sequence_operators" />
-        <item itemvalue="Python.sliceback" />
-        <item itemvalue="Python.strings2" />
+        <item itemvalue="Python.tupleschallenge" />
+        <item itemvalue="Python.tuples" />
+        <item itemvalue="Python.ranges" />
+        <item itemvalue="Python.iteratorchallenge" />
+        <item itemvalue="Python.listschallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -149,42 +148,54 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e923d38-0741-4c19-93ed-ed952e3b4633" name="Default Changelist" comment="" />
-      <created>1585803445973</created>
+      <changelist id="1d74ec20-6906-41fe-a39e-60056b35dc4c" name="Default Changelist" comment="" />
+      <created>1586718036183</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585803445973</updated>
+      <updated>1586718036183</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="218" key="FileChooserDialogImpl" timestamp="1587802061165">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587022674569">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="218" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1587802061165" />
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1586333094166">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587022674569" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587022674569">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1586333094166" />
-    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1586333094166">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587022674569" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587022674569">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1586333094166" />
-    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1586333094166">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587022674569" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587022674569">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1586333094166" />
-    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1586333094166">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587022674569" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586938900288">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1586333094166" />
-    <state x="477" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1587802101986">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586938900288" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586938900288">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="477" y="288" key="com.intellij.ide.util.TipDialog/0.0.1536.920@0.0.1536.920" timestamp="1587802101986" />
-    <state x="209" y="168" key="new project wizard" timestamp="1587802123457">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586938900288" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586938900287">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="209" y="168" key="new project wizard/0.0.1536.920@0.0.1536.920" timestamp="1587802123457" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586938900287" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586938900288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586938900288" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1587063641963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587063641963" />
+    <state x="342" y="221" key="new project wizard" timestamp="1587063685000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="221" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587063685000" />
   </component>
 </project>
