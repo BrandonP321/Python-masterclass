@@ -92,5 +92,10 @@ yearSpinner.grid(row=1, column=2, sticky='w')
 # padding dateFrame
 dateFrame['padx'] = 20
 
+# Buttons
+okButton = tkinter.Button(mainWindow, text='OK')
+cancelButton = tkinter.Button(mainWindow, text='Cancel', command=mainWindow.destroy)
+okButton.grid(row=4, column=3, sticky='e')
+cancelButton.grid(row=4, column=4, sticky='w')
 
 mainWindow.mainloop()

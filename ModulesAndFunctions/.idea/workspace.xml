@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7452a665-162c-4141-b703-8cd12bda748b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Functions/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/calculatorchallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/testtypinggui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typingguiscratch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tkinter_learning/gui/demoscreen.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter_learning/gui/demoscreen.py" afterDir="false" />
     </list>
@@ -40,10 +44,32 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\python-course\ModulesAndFunctions\Functions" />
       <recent name="C:\Users\User\Desktop\python-course\ModulesAndFunctions\tkinter_learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demoscreen">
+  <component name="RunManager" selected="Python.functions (1)">
+    <configuration name="calculatorchallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ModulesAndFunctions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tkinter_learning/gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_learning/gui/calculatorchallenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="demoscreen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ModulesAndFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gridgeometry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="functions (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ModulesAndFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gui" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui/gridgeometry.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turtlemodule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ModulesAndFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtlemodule.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Desktop\python-course\ModulesAndFunctions\Functions\functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="typingspeed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="typingguiscratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ModulesAndFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typingspeed.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typingguiscratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,10 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.functions (1)" />
+        <item itemvalue="Python.functions" />
+        <item itemvalue="Python.typingguiscratch" />
+        <item itemvalue="Python.calculatorchallenge" />
         <item itemvalue="Python.demoscreen" />
-        <item itemvalue="Python.typingspeed" />
-        <item itemvalue="Python.gridgeometry" />
-        <item itemvalue="Python.turtlemodule" />
       </list>
     </recent_temporary>
   </component>
@@ -151,26 +178,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1590651284288">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1590738554504">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590651284288" />
-    <state width="1493" height="315" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1590545158299" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1590651284288">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1590738554504" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1590738554504">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590651284288" />
-    <state width="1493" height="315" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1590545158299" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1590651284288">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1590738554504" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1590738554504">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590651284288" />
-    <state width="1493" height="315" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1590545158299" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1590651284288">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1590738554504" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1590738554504">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590651284288" />
-    <state width="1493" height="315" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1590545158299" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1590738554504" />
     <state width="1493" height="315" key="GridCell.Tab.1.bottom" timestamp="1590545158299">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
@@ -191,10 +218,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="498" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590645640699" />
-    <state x="465" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1590645265075">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="465" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1590702435278">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="465" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1590645265075" />
-    <state x="465" y="304" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1590433190762" />
+    <state x="465" y="304" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1590702435278" />
   </component>
 </project>
