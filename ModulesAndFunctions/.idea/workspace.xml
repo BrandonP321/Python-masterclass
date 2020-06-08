@@ -2,70 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7452a665-162c-4141-b703-8cd12bda748b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/blackjackscratch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/10_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/10_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/10_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/10_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/1_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/1_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/1_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/1_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/2_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/2_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/2_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/2_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/3_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/3_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/3_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/3_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/4_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/4_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/4_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/4_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/5_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/5_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/5_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/5_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/6_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/6_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/6_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/6_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/7_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/7_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/7_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/7_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/8_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/8_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/8_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/8_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/9_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/9_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/9_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/9_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/AUTHORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/Changelog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/NEWS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/black_joker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/jack_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/jack_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/jack_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/jack_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/king_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/king_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/king_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/king_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/queen_club.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/queen_diamond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/queen_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/queen_spade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/cards/red_joker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/importing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/crazy_eights.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tkinter_learning/tkinter_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter_learning/tkinter_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinter_learning/gui/importing.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter_learning/gui/importing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +48,7 @@
       <recent name="C:\Users\User\Desktop\python-course\ModulesAndFunctions\tkinter_learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.importing">
+  <component name="RunManager" selected="Python.crazy_eights">
     <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ModulesAndFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,6 +91,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="crazy_eights" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ModulesAndFunctions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tkinter_learning/gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_learning/gui/crazy_eights.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="importing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ModulesAndFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,27 +125,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_learning/gui/importing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="parabola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ModulesAndFunctions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/parabola.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.crazy_eights" />
         <item itemvalue="Python.importing" />
         <item itemvalue="Python.blackjack" />
         <item itemvalue="Python.blackjackscratch" />
         <item itemvalue="Python.tkinter_basics" />
-        <item itemvalue="Python.parabola" />
       </list>
     </recent_temporary>
   </component>
@@ -242,26 +181,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1591498964818">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1591606742115">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591498964818" />
-    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1590898695415" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1591498964818">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1591606742115" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1591606742115">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591498964818" />
-    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1590898695415" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1591498964818">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1591606742115" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1591606742115">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591498964818" />
-    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1590898695415" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1591498964818">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1591606742115" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1591606742115">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591498964818" />
-    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1590898695415" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1591606742115" />
     <state width="1493" height="315" key="GridCell.Tab.1.bottom" timestamp="1590545158299">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
@@ -282,10 +221,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="498" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590645640699" />
-    <state x="465" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1591477243333">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="465" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1591554268898">
+      <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="465" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591477243333" />
-    <state x="465" y="304" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1590796636944" />
+    <state x="465" y="304" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1591554268898" />
+    <state x="431" y="205" width="672" height="678" key="search.everywhere.popup" timestamp="1591575890840">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="431" y="205" width="672" height="678" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1591575890836" />
   </component>
 </project>
