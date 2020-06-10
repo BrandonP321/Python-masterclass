@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7452a665-162c-4141-b703-8cd12bda748b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tkinter_learning/gui/crazy_eights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tkinter_learning/gui/importing.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter_learning/gui/importing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinter_learning/gui/crazy_eights.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter_learning/gui/crazy_eights.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <recent name="C:\Users\User\Desktop\python-course\ModulesAndFunctions\tkinter_learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.crazy_eights">
+  <component name="RunManager" selected="Python.recursion">
     <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ModulesAndFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tkinter_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ModulesAndFunctions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tkinter_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_learning/tkinter_basics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.recursion" />
         <item itemvalue="Python.crazy_eights" />
         <item itemvalue="Python.importing" />
         <item itemvalue="Python.blackjack" />
         <item itemvalue="Python.blackjackscratch" />
-        <item itemvalue="Python.tkinter_basics" />
       </list>
     </recent_temporary>
   </component>
@@ -181,26 +181,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1591606742115">
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1591773261679">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591498964818" />
-    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1591606742115" />
-    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1591606742115">
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1591773261679" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1591773261679">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591498964818" />
-    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1591606742115" />
-    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1591606742115">
+    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1591773261679" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1591773261678">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591498964818" />
-    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1591606742115" />
-    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1591606742115">
+    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1591773261678" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1591773261679">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591498964818" />
-    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1591606742115" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1591773261679" />
     <state width="1493" height="315" key="GridCell.Tab.1.bottom" timestamp="1590545158299">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
@@ -221,11 +221,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="498" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590645640699" />
-    <state x="465" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1591554268898">
+    <state x="465" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1591740402395">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="465" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591477243333" />
-    <state x="465" y="304" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1591554268898" />
+    <state x="465" y="304" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1591740402395" />
     <state x="431" y="205" width="672" height="678" key="search.everywhere.popup" timestamp="1591575890840">
       <screen x="0" y="0" width="1536" height="960" />
     </state>

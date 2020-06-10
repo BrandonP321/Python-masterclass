@@ -32,19 +32,20 @@ def deal_card(frame):
     return next_card
 
 
-def show_card():
-    card_up = deck.pop(0)
-    card_to_show = card_up[1]
-    show_card_variable.set(card_to_show)
+def deal_show_card():
+    global card_up
+    # pop card from top of deck
+    next_card = deck.pop(0)
+    # assign card to card_up variable
+    card_up = next_card
+    tkinter.Label(show_card_frame, image=card_up[1]).grid(row=0, column=1)
 
 
 def initial_deal():
-    global card_up
-
     for i in range(8):
         player_hand.append(deal_card(player_card_frame))
         dealer_hand.append((deal_card(dealer_card_frame)))
-        card_up = deal_card(show_card_frame)
+        deal_show_card()
 
 
 def new_game():
@@ -77,6 +78,10 @@ def play():
     mainWindow.mainloop()
 
 
+def draw_card():
+    pass
+
+
 mainWindow = tkinter.Tk()
 
 mainWindow.title("Crazy 8's")
@@ -92,7 +97,6 @@ dealer_card_frame = tkinter.Frame(card_frame)
 dealer_card_frame.grid(row=0, column=1, sticky='ew')
 
 # card to show frame
-# show_card_variable = tkinter.StringVar
 show_card_frame = tkinter.Frame(card_frame)
 show_card_frame.grid(row=1, column=1)
 # tkinter.Label(show_card_frame, image=show_card_variable).grid(row=0, column=0)
@@ -117,7 +121,10 @@ cards = []
 load_cards(cards)
 deck = list(cards)
 shuffle_deck(deck)
-card_up = ''
+card_up = None
 
 if __name__ == '__main__':
     play()
+
+print(card_up)
+print(deal_show_card())
