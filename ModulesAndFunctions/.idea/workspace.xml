@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7452a665-162c-4141-b703-8cd12bda748b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/recursion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tkinter_learning/gui/crazy_eights.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter_learning/gui/crazy_eights.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,11 +219,15 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="498" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590645640699" />
-    <state x="465" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1591740402395">
+    <state x="465" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1591913276169">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="465" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1591477243333" />
-    <state x="465" y="304" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1591740402395" />
+    <state x="465" y="304" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1591913276169" />
+    <state x="209" y="182" key="new project wizard" timestamp="1591913527546">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="209" y="182" key="new project wizard/0.0.1536.960@0.0.1536.960" timestamp="1591913527546" />
     <state x="431" y="205" width="672" height="678" key="search.everywhere.popup" timestamp="1591575890840">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
