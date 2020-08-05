@@ -5,9 +5,10 @@ print(f"Think of a number between {low} and {high}")
 input("Press ENTER to start")
 
 guesses = 1
-while low != high:  #set to while true instead of while guess != answer because
-                    #we don't need to define answer and we will tell the code
-                    #when to break instead of it breaking when the condition is false
+while True:  # set to while true instead of while guess != answer because
+                    # we don't need to define answer and we will tell the code
+                    # when to break instead of it breaking when the condition is false
+
     print(f"\tGuessing in the range of {low} to {high}")
     guess = low + (high - low) // 2
     high_low = input(f"My guess is {guess}.  Should I guess higher or lower? "
