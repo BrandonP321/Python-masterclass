@@ -1,0 +1,7 @@
+Laptop cmd-prompt:
+C:\Users\brand\Desktop\Everything\Coding-Courses\Python-Udemy-Course\python-course
+
+Laptop git bash:
+~/Desktop/Everything/Coding-Courses/Python-Udemy-Course/python-course
+
+Desktop:
