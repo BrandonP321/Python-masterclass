@@ -55,4 +55,3 @@ date_string = "01-31-2020 14:45:37"
 formatted_string = "%m-%d-%Y %H:%M:%S"
 date_string_final = datetime.datetime.strptime(date_string, formatted_string)
 print(f"datetime.datetime.strptime(date_string, formatted_string): {date_string_final}")
-
